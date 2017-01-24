@@ -4,3 +4,9 @@
 \\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.pdb
 \\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.exe
 \\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.pdb
+C:\Users\Pontus\Documents\GitHub\VisualStudioProjects\VisualStudio-Grejer\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.exe.config
+C:\Users\Pontus\Documents\GitHub\VisualStudioProjects\VisualStudio-Grejer\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.exe
+C:\Users\Pontus\Documents\GitHub\VisualStudioProjects\VisualStudio-Grejer\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.pdb
+C:\Users\Pontus\Documents\GitHub\VisualStudioProjects\VisualStudio-Grejer\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.exe
+C:\Users\Pontus\Documents\GitHub\VisualStudioProjects\VisualStudio-Grejer\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.pdb
+C:\Users\Pontus\Documents\GitHub\VisualStudioProjects\VisualStudio-Grejer\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.csprojResolveAssemblyReference.cache
