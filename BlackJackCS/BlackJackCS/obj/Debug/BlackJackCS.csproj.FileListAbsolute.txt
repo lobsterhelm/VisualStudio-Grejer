@@ -1,0 +1,6 @@
+\\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.exe.config
+\\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.csprojResolveAssemblyReference.cache
+\\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.exe
+\\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\bin\Debug\BlackJackCS.pdb
+\\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.exe
+\\3se-hn-utb-s1\elever\hummpo\visual studio 2015\Projects\BlackJackCS\BlackJackCS\obj\Debug\BlackJackCS.pdb
